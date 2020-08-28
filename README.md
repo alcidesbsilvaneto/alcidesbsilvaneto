@@ -1,1 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alcidesbsilvaneto)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/alcidesbsilvaneto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alcidesbsilvaneto&show_icons=true&theme=dracula&count_private=true" />
+</a>
