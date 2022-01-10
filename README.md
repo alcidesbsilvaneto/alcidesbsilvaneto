@@ -1,9 +1,9 @@
 
 # Hi, my name is Alcides Bezerra (aka Cabeça)!
 
-Currently CTO at [Emepag](https://emepag.com.br)
+Currently working as full-stack developer at [Emepag](https://emepag.com.br)
 
-Completely in love with full stack development with Node.js, with 4 years experience.
+Completely in love with full stack development using Node.js, with almost 5 years experience.
 
 Some of my skills:
 <br/>
@@ -27,7 +27,7 @@ Some of my skills:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Some platforms I developed all alone (except design)
+Some platforms I developed
 
 * [Brasil Mais Bolsas](https://brasilmaisbolsas.com.br/) (React web + Javascript REST API)
 * [Baribe Coxinhas](https://play.google.com/store/apps/details?id=br.com.baribecoxinha&hl=pt_BR) (Backoffice react web + React native app + Javascript REST API)
@@ -42,4 +42,4 @@ Some platforms I developed all alone (except design)
 </a>
 
 ## Contato
-* alcides@emepag.com.br
+* alcides.bsilvaneto@gmail.com
