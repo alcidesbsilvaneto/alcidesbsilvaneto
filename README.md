@@ -34,7 +34,7 @@ Some platforms I developed
 * [Moda Center Oficial](https://play.google.com/store/apps/details?id=br.com.modacenter.appoficial&hl=pt_BR&gl=US) (Moda Center Santa Cruz official app. Moda Center is the biggest wholesale fashion center in Brasil. Made with React Native + Node.js backend)
 * [Educarq](https://educarq.com.br/)
 * [Stillger](https://play.google.com/store/apps/details?id=br.com.vendemoda.stillger&hl=pt_BR&gl=US) (One of our startup clients. Native iOS and Android ecomerrce app, with complex business rules and integrations, including ERPs and in-app purchases)
-* [Emepag](https://emepag.com.br) (Fintech where I am currently working as CTO)
+* [Emepag](https://emepag.com.br) (Fintech where I am currently working as full-stack developer and CTO)
 <br/>
 
 <a href="https://github.com/alcidesbsilvaneto">
