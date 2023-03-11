@@ -3,7 +3,7 @@
 
 Currently working as full-stack developer at [Emepag](https://emepag.com.br)
 
-I am a Full Stack NodeJS developer with expertise in building scalable and high quality MVP's, from the planning to the deployment. Currently working on my own product: [Emepag](https://emepag.com.br). 
+I am a Full Stack NodeJS developer with expertise in building scalable and high quality MVP's, from the planning to the deployment.
 
 Some of my skills:
 <br/>
