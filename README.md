@@ -3,7 +3,7 @@
 
 Currently working as full-stack developer at [Emepag](https://emepag.com.br)
 
-Completely in love with full stack development using Node.js, with almost 5 years experience.
+I am a Full Stack NodeJS developer with expertise in building scalable and high quality MVP's, from the planning to the deployment. Currently working on my own product: [Emepag](https://emepag.com.br). 
 
 Some of my skills:
 <br/>
@@ -26,20 +26,16 @@ Some of my skills:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 Some platforms I developed
 
-* [Brasil Mais Bolsas](https://brasilmaisbolsas.com.br/) (React web + Javascript REST API)
-* [Baribe Coxinhas](https://play.google.com/store/apps/details?id=br.com.baribecoxinha&hl=pt_BR) (Backoffice react web + React native app + Javascript REST API)
 * [Moda Center Oficial](https://play.google.com/store/apps/details?id=br.com.modacenter.appoficial&hl=pt_BR&gl=US) (Moda Center Santa Cruz official app. Moda Center is the biggest wholesale fashion center in Brasil. Made with React Native + Node.js backend)
-* [Educarq](https://educarq.com.br/)
-* [Stillger](https://play.google.com/store/apps/details?id=br.com.vendemoda.stillger&hl=pt_BR&gl=US) (One of our startup clients. Native iOS and Android ecomerrce app, with complex business rules and integrations, including ERPs and in-app purchases)
 * [Emepag](https://emepag.com.br) (Fintech where I am currently working as full-stack developer and CTO)
+* [Catálogo Virtual](https://camboriu.modacentersantacruz.com.br) (B2B Virtual Catalog made in partnership with Moda Center Santa Cruz)
+
+
 <br/>
 
-<a href="https://github.com/alcidesbsilvaneto">
-  <img align="center" src="https://github-readme-stats-nine-theta-83.vercel.app/api?username=alcidesbsilvaneto&show_icons=true&theme=dracula&count_private=true" />
-</a>
-
-## Contato
+## Contact
 * alcides.bsilvaneto@gmail.com
